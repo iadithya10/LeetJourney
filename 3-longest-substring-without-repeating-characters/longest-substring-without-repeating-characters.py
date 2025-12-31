@@ -9,3 +9,4 @@ class Solution(object):
             last_seen[ch]=right
             max_len=max(max_len,right-left+1)
         return max_len
+        
