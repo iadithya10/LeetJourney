@@ -3,5 +3,3 @@ class Solution(object):
   
         words = s.split()
         return len(words[-1])
-
-     
